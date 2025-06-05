@@ -1,4 +1,4 @@
-# SuperChao
+# Chao
 ### Hi there 👋
 - 📕 I’m a master's student at Hangzhou Dianzi University
 - 🌱 I’m currently learning I2V、c++、algorithm、cuda and triton
