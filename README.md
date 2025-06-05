@@ -5,5 +5,5 @@
 ### Skills 🛠️
 - **Languages**: &nbsp;&nbsp;                C/C++, Python, Shell
 - **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           Cuda, PyTorch, OpenCV, CNN/Transformer, Quantization, diffusion
-- **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode, Markdown/Latex
-Welcome to watch my blog!!! Thanks~
+- **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode, Markdown/Latex  
+### Welcome to watch my blog!!! Thanks~
